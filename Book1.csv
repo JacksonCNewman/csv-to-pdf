@@ -1,13 +1,13 @@
-bin number,student name,mentor name,subject,class time,class size,lesson
-1,john,barns,reading,12:40,24,books
-1,jeff,patitz,paradigms,8:35,27,gui
-2,tristan,li,PF2,1:30,22,algs
-3,layla,barns,reading,12:40,23,books
-3,stephanie,gauch,PF1,2:15,21,game
-2,addison,li,PF2,1:30,30,algs
-4,jackson,li,PF2,1:30,25,algs
-2,micheal,li,PF2,1:30,22,algs
-1,gabe,barns,reading,12:40,24,books
-4,ryan,barns,reading,12:40,26,books
-2,megan,li,PF2,1:30,30,algs
-1,antonio,patitz,paradigms,8:35,27,gui
+bin number,student name,mentor name,subject,class time,class size,lesson,extra column,extra column,extra column
+1,john,barns,reading,12:40,24,books,extra column,extra column,extra column
+1,jeff,patitz,paradigms,8:35,27,gui,extra column,extra column,extra column
+2,tristan,li,PF2,1:30,22,algs,extra column,extra column,extra column
+3,layla,barns,reading,12:40,23,books,extra column,extra column,extra column
+3,stephanie,gauch,PF1,2:15,21,game,extra column,extra column,extra column
+2,addison,li,PF2,1:30,30,algs,extra column,extra column,extra column
+4,jackson,li,PF2,1:30,25,algs,extra column,extra column,extra column
+2,micheal,li,PF2,1:30,22,algs,extra column,extra column,extra column
+1,superlongtestnameblah,barns,reading,12:40,24,books,extra column,extra column,extra column
+4,ryan,barns,reading,12:40,26,books,extra column,extra column,extra column
+2,megan,li,PF2,1:30,30,algs,extra column,extra column,extra column
+1,antonio,patitz,paradigms,8:35,27,gui,extra column,extra column,extra column
